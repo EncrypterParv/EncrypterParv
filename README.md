@@ -44,7 +44,7 @@
 
 <div align="center">
 
-# 🐉 ENERGY TRAIL
+# 🟩 CONTRIBUTION TRAIL
 
 <img width="100%" src="https://raw.githubusercontent.com/EncrypterParv/EncrypterParv/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 

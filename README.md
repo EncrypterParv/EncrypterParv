@@ -15,10 +15,6 @@
 
 <div align="center">
 
----
-
-<div align="center">
-
 # ⚡ POWER GRID
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=EncrypterParv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=00D4FF&text_color=FFFFFF" />
@@ -44,8 +40,17 @@
 
 <div align="center">
 
-# 🟩 CONTRIBUTION TRAIL
+# ⚡ ENERGY PULSE
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=1800&pause=500&color=00D4FF&center=true&vCenter=true&width=750&lines=ENERGY+OUTPUT%3A+ONLINE+%E2%9A%A1;BUILDING.+COMMITTING.+LEVELING+UP." alt="Animated energy status" />
+
+</div>
+
+<details>
+<summary><b>🐉 Open animated contribution trail</b></summary>
+
+<br />
 
 <img width="100%" src="https://raw.githubusercontent.com/EncrypterParv/EncrypterParv/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 
-</div>
+</details>

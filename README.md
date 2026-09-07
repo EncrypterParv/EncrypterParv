@@ -2,7 +2,7 @@
 
 <img width="100%" src="./Dragon%20Ball%20Db%20GIF%20by%20BANDAI%20NAMCO.gif" alt="Dragon Ball energy banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=820&height=75&lines=HI%2C+PARV+THIS+SIDE+%E2%9A%A1;MERN-STACK+BUILDER+IN+BEAST+MODE;CODE.+CREATE.+POWER+UP." alt="Dynamic introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=820&height=75&lines=HI%2C+PARV+THIS+SIDE+%E2%9A%A1;MERN-STACK+DEVELOPER+||+PROBLEM+SOLVER;CODE.+SOLVE.+EVOLVE." alt="Dynamic introduction" />
 
 <br />
 

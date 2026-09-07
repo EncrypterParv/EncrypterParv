@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,38:6A11CB,70:00D4FF,100:263238&height=240&section=header&text=PARV.EXE&fontSize=74&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SYSTEM%20BUILDER&descAlignY=59&descSize=18" />
+<img width="100%" src="./Dragon%20Ball%20Db%20GIF%20by%20BANDAI%20NAMCO.gif" alt="Dragon Ball energy banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=750&color=00D4FF&center=true&vCenter=true&width=700&lines=INITIALIZING+DEVELOPER+HUD...;BUILDING+SYSTEMS.+SHIPPING+IDEAS.;%E2%97%89+TRAIN+%E2%80%A2+%E2%98%A0+EXPLORE+%E2%80%A2+%F0%9F%AA%B5+EVOLVE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=820&height=75&lines=HI%2C+PARV+THIS+SIDE+%E2%9A%A1;MERN-STACK+BUILDER+IN+BEAST+MODE;CODE.+CREATE.+POWER+UP." alt="Dynamic introduction" />
 
 <br />
 

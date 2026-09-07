@@ -45,12 +45,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=1800&pause=500&color=00D4FF&center=true&vCenter=true&width=750&lines=ENERGY+OUTPUT%3A+ONLINE+%E2%9A%A1;BUILDING.+COMMITTING.+LEVELING+UP." alt="Animated energy status" />
 
 </div>
+<div align="center">
 
-<details>
-<summary><b>🐉 Open animated contribution trail</b></summary>
-
-<br />
+# 🟩 CONTRIBUTION TRAIL
 
 <img width="100%" src="https://raw.githubusercontent.com/EncrypterParv/EncrypterParv/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 
-</details>
+</div>>

@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**EncrypterParv/EncrypterParv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ PARV.EXE
 
-Here are some ideas to get you started:
+### Full-Stack Developer · System Builder · Currently Leveling Up
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 「まだ終わっていない。」  
+> *The story is not over yet.*
+
+<br />
+
+```text
+╭──────────────────────────────────────────────╮
+│              DEVELOPER STATUS                 │
+├──────────────────────────────────────────────┤
+│  NAME:     PARV GOYAL                         │
+│  CLASS:    FULL-STACK BUILDER                 │
+│  STATUS:   BUILDING...                        │
+│  CURRENT ARC: BACKEND ENGINEERING             │
+╰──────────────────────────────────────────────╯
+
+
+</div

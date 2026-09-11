@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D GitHub contribution graph" />
+<img width="60%" src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D GitHub contribution graph" />
 
 </div>
 

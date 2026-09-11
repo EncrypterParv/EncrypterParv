@@ -15,9 +15,7 @@
 
 <div align="center">
 
-<h2>GITHUB ACTIVITY</h2>
-
-<img height="180" src="https://streak-stats.demolab.com?user=EncrypterParv&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=FACC15&fire=FF7A00&currStreakLabel=00D4FF" alt="GitHub contribution streak" />
+<img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D GitHub contribution graph" />
 
 </div>
 
